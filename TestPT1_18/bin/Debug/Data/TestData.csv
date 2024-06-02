@@ -1,0 +1,4 @@
+﻿a,b,expected
+0,0,"Phương trình vô số nghiệm."
+0,1,"Phương trình vô nghiệm."
+1,-1,"1"

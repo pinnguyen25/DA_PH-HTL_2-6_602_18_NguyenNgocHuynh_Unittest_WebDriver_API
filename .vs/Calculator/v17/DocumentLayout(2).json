@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\calculatortester\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|solutionrelative:calculatortester\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\calculatortester\\testpheptoan_17_huy_32_phat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|solutionrelative:calculatortester\\testpheptoan_17_huy_32_phat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E271BBB9-3DCD-41A2-83FB-04A1257BEDE2}|TestPT2_17_Huy_32_Phat\\TestPT2_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\testpt2_17_huy_32_phat\\testpt2_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E271BBB9-3DCD-41A2-83FB-04A1257BEDE2}|TestPT2_17_Huy_32_Phat\\TestPT2_17_Huy_32_Phat.csproj|solutionrelative:testpt2_17_huy_32_phat\\testpt2_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E271BBB9-3DCD-41A2-83FB-04A1257BEDE2}|TestPT2_17_Huy_32_Phat\\TestPT2_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\testpt2_17_huy_32_phat\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E271BBB9-3DCD-41A2-83FB-04A1257BEDE2}|TestPT2_17_Huy_32_Phat\\TestPT2_17_Huy_32_Phat.csproj|solutionrelative:testpt2_17_huy_32_phat\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E66AC-DACC-4EA6-824C-694DEE40C0F2}|TestPT_17_Huy_32_Phat\\TestPT_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\testpt_17_huy_32_phat\\testpt1_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E66AC-DACC-4EA6-824C-694DEE40C0F2}|TestPT_17_Huy_32_Phat\\TestPT_17_Huy_32_Phat.csproj|solutionrelative:testpt_17_huy_32_phat\\testpt1_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C8597-5B6A-4252-9021-47589D3E67E6}|TestSNT_17_32\\TestSNT_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\testsnt_17_32\\testsnt_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C8597-5B6A-4252-9021-47589D3E67E6}|TestSNT_17_32\\TestSNT_17_Huy_32_Phat.csproj|solutionrelative:testsnt_17_32\\testsnt_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E66AC-DACC-4EA6-824C-694DEE40C0F2}|TestPT_17_Huy_32_Phat\\TestPT1_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\testpt_17_huy_32_phat\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F6E66AC-DACC-4EA6-824C-694DEE40C0F2}|TestPT_17_Huy_32_Phat\\TestPT1_17_Huy_32_Phat.csproj|solutionrelative:testpt_17_huy_32_phat\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|d:\\ph\u00E1t\\bai hoc\\calculator\\calculator\\giaipt_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|solutionrelative:calculator\\giaipt_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\CalculatorTester\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "CalculatorTester\\Data\\TestData.csv",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\CalculatorTester\\Data\\TestData.csv",
+              "RelativeToolTip": "CalculatorTester\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T14:59:05.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testpheptoan_17_Huy_32_Phat.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "RelativeDocumentMoniker": "CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "RelativeToolTip": "CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:59:02.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT2_17_Huy_32_Phat\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestPT2_17_Huy_32_Phat\\Data\\TestData.csv",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT2_17_Huy_32_Phat\\Data\\TestData.csv",
+              "RelativeToolTip": "TestPT2_17_Huy_32_Phat\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T14:57:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT_17_Huy_32_Phat\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestPT_17_Huy_32_Phat\\Data\\TestData.csv",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT_17_Huy_32_Phat\\Data\\TestData.csv",
+              "RelativeToolTip": "TestPT_17_Huy_32_Phat\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T14:44:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Giaipt_17_32.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\Calculator\\Giaipt_17_32.cs",
+              "RelativeDocumentMoniker": "Calculator\\Giaipt_17_32.cs",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\Calculator\\Giaipt_17_32.cs",
+              "RelativeToolTip": "Calculator\\Giaipt_17_32.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:47:07.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestPT2_17_32.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT2_17_Huy_32_Phat\\TestPT2_17_32.cs",
+              "RelativeDocumentMoniker": "TestPT2_17_Huy_32_Phat\\TestPT2_17_32.cs",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT2_17_Huy_32_Phat\\TestPT2_17_32.cs",
+              "RelativeToolTip": "TestPT2_17_Huy_32_Phat\\TestPT2_17_32.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:37:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestSNT_17_32.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestSNT_17_32\\TestSNT_17_32.cs",
+              "RelativeDocumentMoniker": "TestSNT_17_32\\TestSNT_17_32.cs",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestSNT_17_32\\TestSNT_17_32.cs",
+              "RelativeToolTip": "TestSNT_17_32\\TestSNT_17_32.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:51:48.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPT1_17_32.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT_17_Huy_32_Phat\\TestPT1_17_32.cs",
+              "RelativeDocumentMoniker": "TestPT_17_Huy_32_Phat\\TestPT1_17_32.cs",
+              "ToolTip": "D:\\Ph\u00E1t\\Bai hoc\\Calculator\\TestPT_17_Huy_32_Phat\\TestPT1_17_32.cs",
+              "RelativeToolTip": "TestPT_17_Huy_32_Phat\\TestPT1_17_32.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:35:07.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

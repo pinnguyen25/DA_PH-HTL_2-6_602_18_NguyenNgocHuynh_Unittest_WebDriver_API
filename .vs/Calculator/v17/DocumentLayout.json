@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ktpm\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32BED85-CEEF-44BC-85B5-BD0BDB949DD8}|Test_Web_18\\Test_Web_18.csproj|d:\\ktpm\\calculator\\test_web_18\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32BED85-CEEF-44BC-85B5-BD0BDB949DD8}|Test_Web_18\\Test_Web_18.csproj|solutionrelative:test_web_18\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8864FB63-DD45-4066-8419-2BBFF4FE1F1A}|Web_18_Huynh\\Web_18_Huynh.csproj|d:\\ktpm\\calculator\\web_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8864FB63-DD45-4066-8419-2BBFF4FE1F1A}|Web_18_Huynh\\Web_18_Huynh.csproj|solutionrelative:web_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8864FB63-DD45-4066-8419-2BBFF4FE1F1A}|Web_18_Huynh\\Web_18_Huynh.csproj|d:\\ktpm\\calculator\\web_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8864FB63-DD45-4066-8419-2BBFF4FE1F1A}|Web_18_Huynh\\Web_18_Huynh.csproj|solutionrelative:web_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B89F1-AFB2-4A99-B72D-99561E9FDD29}|TestPT2_18\\TestPT2_18.csproj|d:\\ktpm\\calculator\\testpt2_18\\testpt2_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B89F1-AFB2-4A99-B72D-99561E9FDD29}|TestPT2_18\\TestPT2_18.csproj|solutionrelative:testpt2_18\\testpt2_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B89F1-AFB2-4A99-B72D-99561E9FDD29}|TestPT2_18\\TestPT2_18.csproj|D:\\ktpm\\Calculator\\testpt2_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F97B89F1-AFB2-4A99-B72D-99561E9FDD29}|TestPT2_18\\TestPT2_18.csproj|solutionrelative:testpt2_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17564B21-A7B1-463F-A8E8-5F0B37915492}|TestPT1_18\\TestPT1_18.csproj|D:\\ktpm\\Calculator\\testpt1_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17564B21-A7B1-463F-A8E8-5F0B37915492}|TestPT1_18\\TestPT1_18.csproj|solutionrelative:testpt1_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450739D0-5BC3-44B3-8CC4-DFDF75A4766F}|Calculator\\Calculator.csproj|D:\\ktpm\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450739D0-5BC3-44B3-8CC4-DFDF75A4766F}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450739D0-5BC3-44B3-8CC4-DFDF75A4766F}|Calculator\\Calculator.csproj|D:\\ktpm\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{450739D0-5BC3-44B3-8CC4-DFDF75A4766F}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450739D0-5BC3-44B3-8CC4-DFDF75A4766F}|Calculator\\Calculator.csproj|D:\\ktpm\\Calculator\\calculator\\giaipt_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450739D0-5BC3-44B3-8CC4-DFDF75A4766F}|Calculator\\Calculator.csproj|solutionrelative:calculator\\giaipt_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17564B21-A7B1-463F-A8E8-5F0B37915492}|TestPT1_18\\TestPT1_18.csproj|D:\\ktpm\\Calculator\\testpt1_18\\testpt1_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17564B21-A7B1-463F-A8E8-5F0B37915492}|TestPT1_18\\TestPT1_18.csproj|solutionrelative:testpt1_18\\testpt1_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C4E008-7A70-480F-AF24-4B9D012EF591}|TestGiaiPT\\TestGiaiPT.csproj|D:\\ktpm\\Calculator\\testgiaipt\\testgiaipt_18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C4E008-7A70-480F-AF24-4B9D012EF591}|TestGiaiPT\\TestGiaiPT.csproj|solutionrelative:testgiaipt\\testgiaipt_18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\Test_Web_18\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_Web_18\\UnitTest1.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\Test_Web_18\\UnitTest1.cs",
+              "RelativeToolTip": "Test_Web_18\\UnitTest1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:29:08.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\Web_18_Huynh\\Form1.cs",
+              "RelativeDocumentMoniker": "Web_18_Huynh\\Form1.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\Web_18_Huynh\\Form1.cs",
+              "RelativeToolTip": "Web_18_Huynh\\Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:26:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\Web_18_Huynh\\Form1.cs",
+              "RelativeDocumentMoniker": "Web_18_Huynh\\Form1.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\Web_18_Huynh\\Form1.cs [Design]",
+              "RelativeToolTip": "Web_18_Huynh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:25:51.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\TestPT2_18\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestPT2_18\\Data\\TestData.csv",
+              "ToolTip": "D:\\ktpm\\Calculator\\TestPT2_18\\Data\\TestData.csv",
+              "RelativeToolTip": "TestPT2_18\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T16:29:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestPT2_18_Huynh.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\TestPT2_18\\TestPT2_18_Huynh.cs",
+              "RelativeDocumentMoniker": "TestPT2_18\\TestPT2_18_Huynh.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\TestPT2_18\\TestPT2_18_Huynh.cs",
+              "RelativeToolTip": "TestPT2_18\\TestPT2_18_Huynh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:28:05.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\TestPT1_18\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestPT1_18\\Data\\TestData.csv",
+              "ToolTip": "D:\\ktpm\\Calculator\\TestPT1_18\\Data\\TestData.csv",
+              "RelativeToolTip": "TestPT1_18\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T16:25:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestPT1_18_Huynh.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\TestPT1_18\\TestPT1_18_Huynh.cs",
+              "RelativeDocumentMoniker": "TestPT1_18\\TestPT1_18_Huynh.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\TestPT1_18\\TestPT1_18_Huynh.cs",
+              "RelativeToolTip": "TestPT1_18\\TestPT1_18_Huynh.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:20:05.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestGiaiPT_18.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\TestGiaiPT\\TestGiaiPT_18.cs",
+              "RelativeDocumentMoniker": "TestGiaiPT\\TestGiaiPT_18.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\TestGiaiPT\\TestGiaiPT_18.cs",
+              "RelativeToolTip": "TestGiaiPT\\TestGiaiPT_18.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:20:20.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiaiPT_18_Huynh.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\Calculator\\GiaiPT_18_Huynh.cs",
+              "RelativeDocumentMoniker": "Calculator\\GiaiPT_18_Huynh.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\Calculator\\GiaiPT_18_Huynh.cs",
+              "RelativeToolTip": "Calculator\\GiaiPT_18_Huynh.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:57:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:29:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ktpm\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\ktpm\\Calculator\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:24:42.732Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
